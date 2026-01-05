@@ -1,6 +1,6 @@
 # React Router - Navegação Simples com Vite
 
-## Objetivo da Aula
+## Objetivo
 
 Aprender a criar navegação entre páginas em React usando React Router de forma simples e prática.
 
